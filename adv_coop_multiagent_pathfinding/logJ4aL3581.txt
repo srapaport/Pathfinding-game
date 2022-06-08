@@ -1,0 +1,3754 @@
+pygame 2.0.1 (SDL 2.0.14, Python 3.9.1)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ITERATION :  1
+Init states: [(0, 3), (0, 9), (0, 13), (19, 2), (19, 9), (19, 16)]
+Objectifs reassemble :  [(19, 5), (19, 11), (19, 18), (0, 11), (0, 6), (0, 17)]
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  1
+J'avance  (0, 3)  ->  (1, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  1
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  1
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  1
+J'avance  (19, 2)  ->  (18, 2)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  1
+J'avance  (19, 9)  ->  (18, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  1
+J'avance  (19, 16)  ->  (18, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  2
+J'avance  (1, 3)  ->  (2, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  2
+J'avance  (0, 10)  ->  (1, 10)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  2
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  2
+J'avance  (18, 2)  ->  (18, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  2
+J'avance  (18, 9)  ->  (17, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  2
+J'avance  (18, 16)  ->  (17, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  3
+J'avance  (2, 3)  ->  (3, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  3
+J'avance  (1, 10)  ->  (2, 10)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  3
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  3
+J'avance  (18, 3)  ->  (17, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  3
+J'avance  (17, 9)  ->  (16, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  3
+J'avance  (17, 16)  ->  (16, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  4
+J'avance  (3, 3)  ->  (4, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  4
+J'avance  (2, 10)  ->  (3, 10)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  4
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  4
+J'avance  (17, 3)  ->  (16, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  4
+J'avance  (16, 9)  ->  (15, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  4
+J'avance  (16, 16)  ->  (15, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  5
+J'avance  (4, 3)  ->  (5, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  5
+J'avance  (3, 10)  ->  (3, 11)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  5
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  5
+J'avance  (16, 3)  ->  (15, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  5
+J'avance  (15, 9)  ->  (15, 8)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  5
+J'avance  (15, 16)  ->  (14, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  6
+J'avance  (5, 3)  ->  (6, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  6
+J'avance  (3, 11)  ->  (3, 12)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  6
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  6
+J'avance  (15, 3)  ->  (14, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  6
+J'avance  (15, 8)  ->  (15, 7)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  6
+J'avance  (14, 16)  ->  (13, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  7
+J'avance  (6, 3)  ->  (7, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  7
+J'avance  (3, 12)  ->  (3, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  7
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  7
+J'avance  (14, 3)  ->  (13, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  7
+J'avance  (15, 7)  ->  (15, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  7
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  8
+J'avance  (7, 3)  ->  (8, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  8
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  8
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  8
+J'avance  (13, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  8
+J'avance  (15, 6)  ->  (14, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  8
+J'avance  (12, 16)  ->  (11, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  9
+J'avance  (8, 3)  ->  (9, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  9
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  9
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  9
+J'avance  (12, 3)  ->  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  9
+J'avance  (14, 6)  ->  (13, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  9
+J'avance  (11, 16)  ->  (10, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  10
+J'avance  (9, 3)  ->  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  10
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  10
+J'avance  (9, 13)  ->  (10, 13)
+Mon tour, joueur :  3
+J'attends  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  10
+J'avance  (13, 6)  ->  (12, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  10
+J'avance  (10, 16)  ->  (9, 16)
+Mon tour, joueur :  0
+J'attends  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  11
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  11
+J'avance  (10, 13)  ->  (11, 13)
+Mon tour, joueur :  3
+Je switch, j'ai pas le choix  (11, 3)
+Taille du path :  28  || Taille du cptPath :  1
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  11
+J'avance  (12, 6)  ->  (11, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  11
+J'avance  (9, 16)  ->  (8, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  11
+J'avance  (10, 3)  ->  (11, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  12
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  12
+J'avance  (11, 13)  ->  (12, 13)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  2
+J'avance  (12, 3)  ->  (12, 2)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  12
+J'avance  (11, 6)  ->  (10, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  12
+J'avance  (8, 16)  ->  (7, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  12
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  13
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  13
+J'avance  (12, 13)  ->  (12, 14)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  3
+J'avance  (12, 2)  ->  (12, 1)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  13
+J'avance  (10, 6)  ->  (9, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  13
+J'avance  (7, 16)  ->  (6, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  13
+J'avance  (12, 3)  ->  (13, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  14
+J'avance  (9, 13)  ->  (10, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  14
+J'avance  (12, 14)  ->  (12, 15)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  4
+J'avance  (12, 1)  ->  (12, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  14
+J'avance  (9, 6)  ->  (8, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  14
+J'avance  (6, 16)  ->  (5, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  14
+J'avance  (13, 3)  ->  (14, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  15
+J'avance  (10, 13)  ->  (11, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  15
+J'avance  (12, 15)  ->  (12, 16)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  5
+J'avance  (12, 0)  ->  (11, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  15
+J'avance  (8, 6)  ->  (7, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  15
+J'avance  (5, 16)  ->  (4, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  15
+J'avance  (14, 3)  ->  (15, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  16
+J'avance  (11, 13)  ->  (12, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  16
+J'avance  (12, 16)  ->  (13, 16)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  6
+J'avance  (11, 0)  ->  (10, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  16
+J'avance  (7, 6)  ->  (6, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  16
+J'avance  (4, 16)  ->  (3, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  16
+J'avance  (15, 3)  ->  (16, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  17
+J'avance  (12, 13)  ->  (13, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  17
+J'avance  (13, 16)  ->  (14, 16)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  7
+J'avance  (10, 0)  ->  (9, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  17
+J'avance  (6, 6)  ->  (5, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  17
+J'avance  (3, 16)  ->  (2, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  17
+J'avance  (16, 3)  ->  (17, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  18
+J'avance  (13, 13)  ->  (14, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  18
+J'avance  (14, 16)  ->  (15, 16)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  8
+J'avance  (9, 0)  ->  (8, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  18
+J'avance  (5, 6)  ->  (4, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  18
+J'avance  (2, 16)  ->  (1, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  18
+J'avance  (17, 3)  ->  (18, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  19
+J'avance  (14, 13)  ->  (15, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  19
+J'avance  (15, 16)  ->  (16, 16)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  9
+J'avance  (8, 0)  ->  (7, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  19
+J'avance  (4, 6)  ->  (3, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  19
+J'avance  (1, 16)  ->  (0, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  19
+J'avance  (18, 3)  ->  (18, 4)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  20
+J'avance  (15, 13)  ->  (16, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  20
+J'avance  (16, 16)  ->  (17, 16)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  10
+J'avance  (7, 0)  ->  (6, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  20
+J'avance  (3, 6)  ->  (2, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  20
+J'avance  (0, 16)  ->  (0, 17)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  20
+J'avance  (18, 4)  ->  (19, 4)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  21
+J'avance  (16, 13)  ->  (17, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  21
+J'avance  (17, 16)  ->  (18, 16)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  11
+J'avance  (6, 0)  ->  (5, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  21
+J'avance  (2, 6)  ->  (1, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  21
+J'avance  (19, 4)  ->  (19, 5)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  22
+J'avance  (17, 13)  ->  (18, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  22
+J'avance  (18, 16)  ->  (18, 17)
+Mon tour, joueur :  3
+Taille du path :  28  || Taille du cptPath :  12
+J'avance  (5, 0)  ->  (4, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  22
+J'avance  (1, 6)  ->  (0, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  23
+J'avance  (18, 13)  ->  (18, 12)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  23
+J'avance  (18, 17)  ->  (18, 18)
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  1
+J'avance  (4, 0)  ->  (3, 0)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  24
+J'avance  (18, 12)  ->  (18, 11)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  24
+J'avance  (18, 18)  ->  (19, 18)
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  2
+J'avance  (3, 0)  ->  (3, 1)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  25
+J'avance  (18, 11)  ->  (19, 11)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  3
+J'avance  (3, 1)  ->  (3, 2)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  4
+J'avance  (3, 2)  ->  (3, 3)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  5
+J'avance  (3, 3)  ->  (3, 4)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  6
+J'avance  (3, 4)  ->  (3, 5)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  7
+J'avance  (3, 5)  ->  (3, 6)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  8
+J'avance  (3, 6)  ->  (3, 7)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  9
+J'avance  (3, 7)  ->  (3, 8)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  10
+J'avance  (3, 8)  ->  (3, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  11
+J'avance  (3, 9)  ->  (2, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  12
+J'avance  (2, 9)  ->  (1, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  13
+J'avance  (1, 9)  ->  (0, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  14
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  16  || Taille du cptPath :  15
+J'avance  (0, 10)  ->  (0, 11)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+ITERATION :  2
+Init states: [(0, 3), (0, 9), (0, 13), (19, 2), (19, 9), (19, 16)]
+Objectifs reassemble :  [(19, 11), (19, 18), (19, 5), (0, 17), (0, 6), (0, 11)]
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  1
+J'avance  (0, 3)  ->  (1, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  1
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  1
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  1
+J'avance  (19, 2)  ->  (18, 2)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  1
+J'avance  (19, 9)  ->  (18, 9)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  1
+J'avance  (19, 16)  ->  (18, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  2
+J'avance  (1, 3)  ->  (2, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  2
+J'avance  (0, 10)  ->  (0, 11)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  2
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  2
+J'avance  (18, 2)  ->  (18, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  2
+J'avance  (18, 9)  ->  (17, 9)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  2
+J'avance  (18, 16)  ->  (17, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  3
+J'avance  (2, 3)  ->  (3, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  3
+J'avance  (0, 11)  ->  (0, 12)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  3
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  3
+J'avance  (18, 3)  ->  (17, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  3
+J'avance  (17, 9)  ->  (16, 9)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  3
+J'avance  (17, 16)  ->  (16, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  4
+J'avance  (3, 3)  ->  (4, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  4
+J'avance  (0, 12)  ->  (0, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  4
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  4
+J'avance  (17, 3)  ->  (16, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  4
+J'avance  (16, 9)  ->  (15, 9)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  4
+J'avance  (16, 16)  ->  (15, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  5
+J'avance  (4, 3)  ->  (5, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  5
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  5
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  5
+J'avance  (16, 3)  ->  (15, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  5
+J'avance  (15, 9)  ->  (15, 8)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  5
+J'avance  (15, 16)  ->  (14, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  6
+J'avance  (5, 3)  ->  (6, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  6
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  6
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  6
+J'avance  (15, 3)  ->  (14, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  6
+J'avance  (15, 8)  ->  (15, 7)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  6
+J'avance  (14, 16)  ->  (13, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  7
+J'avance  (6, 3)  ->  (7, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  7
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  7
+J'avance  (6, 13)  ->  (6, 12)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  7
+J'avance  (14, 3)  ->  (13, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  7
+J'avance  (15, 7)  ->  (15, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  7
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  8
+J'avance  (7, 3)  ->  (8, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  8
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  8
+J'avance  (6, 12)  ->  (6, 11)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  8
+J'avance  (13, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  8
+J'avance  (15, 6)  ->  (14, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  8
+J'avance  (12, 16)  ->  (12, 15)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  9
+J'avance  (8, 3)  ->  (9, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  9
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  9
+J'avance  (6, 11)  ->  (6, 10)
+Mon tour, joueur :  3
+Taille du path :  35  || Taille du cptPath :  9
+J'avance  (12, 3)  ->  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  9
+J'avance  (14, 6)  ->  (13, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  9
+J'avance  (12, 15)  ->  (12, 14)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  10
+J'avance  (9, 3)  ->  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  10
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  10
+J'avance  (6, 10)  ->  (7, 10)
+Mon tour, joueur :  3
+J'attends  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  10
+J'avance  (13, 6)  ->  (12, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  10
+J'avance  (12, 14)  ->  (12, 13)
+Mon tour, joueur :  0
+J'attends  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  11
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  11
+J'avance  (7, 10)  ->  (8, 10)
+Mon tour, joueur :  3
+Je switch, j'ai pas le choix  (11, 3)
+Taille du path :  34  || Taille du cptPath :  1
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  11
+J'avance  (12, 6)  ->  (11, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  11
+J'avance  (12, 13)  ->  (11, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  11
+J'avance  (10, 3)  ->  (11, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  12
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  12
+J'avance  (8, 10)  ->  (9, 10)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  2
+J'avance  (12, 3)  ->  (12, 2)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  12
+J'avance  (11, 6)  ->  (10, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  12
+J'avance  (11, 13)  ->  (10, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  12
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  13
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  13
+J'avance  (9, 10)  ->  (10, 10)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  3
+J'avance  (12, 2)  ->  (12, 1)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  13
+J'avance  (10, 6)  ->  (9, 6)
+Mon tour, joueur :  5
+J'attends  (10, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  13
+J'avance  (12, 3)  ->  (12, 4)
+Mon tour, joueur :  1
+Je switch  (9, 13)
+Taille du path :  16  || Taille du cptPath :  1
+J'avance  (9, 13)  ->  (9, 14)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  14
+J'avance  (10, 10)  ->  (10, 9)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  4
+J'avance  (12, 1)  ->  (12, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  14
+J'avance  (9, 6)  ->  (8, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  13
+J'avance  (10, 13)  ->  (9, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  14
+J'avance  (12, 4)  ->  (12, 5)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  2
+J'avance  (9, 14)  ->  (9, 15)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  15
+J'avance  (10, 9)  ->  (11, 9)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  5
+J'avance  (12, 0)  ->  (11, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  15
+J'avance  (8, 6)  ->  (7, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  14
+J'avance  (9, 13)  ->  (8, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  15
+J'avance  (12, 5)  ->  (12, 6)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  3
+J'avance  (9, 15)  ->  (9, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  16
+J'avance  (11, 9)  ->  (12, 9)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  6
+J'avance  (11, 0)  ->  (10, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  16
+J'avance  (7, 6)  ->  (6, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  15
+J'avance  (8, 13)  ->  (7, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  16
+J'avance  (12, 6)  ->  (13, 6)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  4
+J'avance  (9, 16)  ->  (10, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  17
+J'avance  (12, 9)  ->  (12, 8)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  7
+J'avance  (10, 0)  ->  (9, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  17
+J'avance  (6, 6)  ->  (5, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  16
+J'avance  (7, 13)  ->  (6, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  17
+J'avance  (13, 6)  ->  (14, 6)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  5
+J'avance  (10, 16)  ->  (11, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  18
+J'avance  (12, 8)  ->  (12, 7)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  8
+J'avance  (9, 0)  ->  (8, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  18
+J'avance  (5, 6)  ->  (4, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  17
+J'avance  (6, 13)  ->  (5, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  18
+J'avance  (14, 6)  ->  (15, 6)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  6
+J'avance  (11, 16)  ->  (12, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  19
+J'avance  (12, 7)  ->  (12, 6)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  9
+J'avance  (8, 0)  ->  (7, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  19
+J'avance  (4, 6)  ->  (3, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  18
+J'avance  (5, 13)  ->  (4, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  19
+J'avance  (15, 6)  ->  (15, 7)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  7
+J'avance  (12, 16)  ->  (13, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  20
+J'avance  (12, 6)  ->  (13, 6)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  10
+J'avance  (7, 0)  ->  (6, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  20
+J'avance  (3, 6)  ->  (2, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  19
+J'avance  (4, 13)  ->  (3, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  20
+J'avance  (15, 7)  ->  (15, 8)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  8
+J'avance  (13, 16)  ->  (14, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  21
+J'avance  (13, 6)  ->  (14, 6)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  11
+J'avance  (6, 0)  ->  (5, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  21
+J'avance  (2, 6)  ->  (1, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  20
+J'avance  (3, 13)  ->  (2, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  21
+J'avance  (15, 8)  ->  (15, 9)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  9
+J'avance  (14, 16)  ->  (15, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  22
+J'avance  (14, 6)  ->  (15, 6)
+Mon tour, joueur :  3
+Taille du path :  34  || Taille du cptPath :  12
+J'avance  (5, 0)  ->  (4, 0)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  22
+J'avance  (1, 6)  ->  (0, 6)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  21
+J'avance  (2, 13)  ->  (1, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  22
+J'avance  (15, 9)  ->  (15, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  10
+J'avance  (15, 16)  ->  (16, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  23
+J'avance  (15, 6)  ->  (16, 6)
+Mon tour, joueur :  3
+Taille du path :  22  || Taille du cptPath :  1
+J'avance  (4, 0)  ->  (3, 0)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  22
+J'avance  (1, 13)  ->  (0, 13)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  23
+J'avance  (15, 10)  ->  (16, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  11
+J'avance  (16, 16)  ->  (17, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  24
+J'avance  (16, 6)  ->  (17, 6)
+Mon tour, joueur :  3
+Taille du path :  22  || Taille du cptPath :  2
+J'avance  (3, 0)  ->  (3, 1)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  23
+J'avance  (0, 13)  ->  (0, 12)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  24
+J'avance  (16, 10)  ->  (17, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  12
+J'avance  (17, 16)  ->  (18, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  25
+J'avance  (17, 6)  ->  (18, 6)
+Mon tour, joueur :  3
+Taille du path :  22  || Taille du cptPath :  3
+J'avance  (3, 1)  ->  (3, 2)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  24
+J'avance  (0, 12)  ->  (0, 11)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  25
+J'avance  (17, 10)  ->  (18, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  13
+J'avance  (18, 16)  ->  (18, 17)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  26
+J'avance  (18, 6)  ->  (18, 5)
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  1
+J'avance  (3, 2)  ->  (3, 3)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  26
+J'avance  (18, 10)  ->  (18, 11)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  14
+J'avance  (18, 17)  ->  (18, 18)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  27
+J'avance  (18, 5)  ->  (19, 5)
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  2
+J'avance  (3, 3)  ->  (3, 4)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  27
+J'avance  (18, 11)  ->  (19, 11)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  15
+J'avance  (18, 18)  ->  (19, 18)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  3
+J'avance  (3, 4)  ->  (3, 5)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  4
+J'avance  (3, 5)  ->  (3, 6)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  5
+J'avance  (3, 6)  ->  (3, 7)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  6
+J'avance  (3, 7)  ->  (3, 8)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  7
+J'avance  (3, 8)  ->  (3, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  8
+J'avance  (3, 9)  ->  (3, 10)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  9
+J'avance  (3, 10)  ->  (3, 11)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  10
+J'avance  (3, 11)  ->  (3, 12)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  11
+J'avance  (3, 12)  ->  (3, 13)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  12
+J'avance  (3, 13)  ->  (2, 13)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  13
+J'avance  (2, 13)  ->  (1, 13)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  14
+J'avance  (1, 13)  ->  (0, 13)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  15
+J'avance  (0, 13)  ->  (0, 14)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  16
+J'avance  (0, 14)  ->  (0, 15)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  17
+J'avance  (0, 15)  ->  (0, 16)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  19  || Taille du cptPath :  18
+J'avance  (0, 16)  ->  (0, 17)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+ITERATION :  3
+Init states: [(0, 3), (0, 9), (0, 13), (19, 2), (19, 9), (19, 16)]
+Objectifs reassemble :  [(19, 11), (19, 18), (19, 5), (0, 6), (0, 11), (0, 17)]
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  1
+J'avance  (0, 3)  ->  (1, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  1
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  1
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  1
+J'avance  (19, 2)  ->  (18, 2)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  1
+J'avance  (19, 9)  ->  (18, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  1
+J'avance  (19, 16)  ->  (18, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  2
+J'avance  (1, 3)  ->  (2, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  2
+J'avance  (0, 10)  ->  (0, 11)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  2
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  2
+J'avance  (18, 2)  ->  (18, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  2
+J'avance  (18, 9)  ->  (17, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  2
+J'avance  (18, 16)  ->  (17, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  3
+J'avance  (2, 3)  ->  (3, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  3
+J'avance  (0, 11)  ->  (0, 12)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  3
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  3
+J'avance  (18, 3)  ->  (17, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  3
+J'avance  (17, 9)  ->  (16, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  3
+J'avance  (17, 16)  ->  (16, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  4
+J'avance  (3, 3)  ->  (4, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  4
+J'avance  (0, 12)  ->  (0, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  4
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  4
+J'avance  (17, 3)  ->  (16, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  4
+J'avance  (16, 9)  ->  (15, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  4
+J'avance  (16, 16)  ->  (15, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  5
+J'avance  (4, 3)  ->  (5, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  5
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  5
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  5
+J'avance  (16, 3)  ->  (15, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  5
+J'avance  (15, 9)  ->  (15, 10)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  5
+J'avance  (15, 16)  ->  (14, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  6
+J'avance  (5, 3)  ->  (6, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  6
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  6
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  6
+J'avance  (15, 3)  ->  (14, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  6
+J'avance  (15, 10)  ->  (15, 11)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  6
+J'avance  (14, 16)  ->  (13, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  7
+J'avance  (6, 3)  ->  (7, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  7
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  7
+J'avance  (6, 13)  ->  (6, 12)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  7
+J'avance  (14, 3)  ->  (13, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  7
+J'avance  (15, 11)  ->  (15, 12)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  7
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  8
+J'avance  (7, 3)  ->  (8, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  8
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  8
+J'avance  (6, 12)  ->  (6, 11)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  8
+J'avance  (13, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  8
+J'avance  (15, 12)  ->  (15, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  8
+J'avance  (12, 16)  ->  (11, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  9
+J'avance  (8, 3)  ->  (9, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  9
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  9
+J'avance  (6, 11)  ->  (6, 10)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  9
+J'avance  (12, 3)  ->  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  9
+J'avance  (15, 13)  ->  (14, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  9
+J'avance  (11, 16)  ->  (10, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  10
+J'avance  (9, 3)  ->  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  10
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  10
+J'avance  (6, 10)  ->  (7, 10)
+Mon tour, joueur :  3
+J'attends  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  10
+J'avance  (14, 13)  ->  (13, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  10
+J'avance  (10, 16)  ->  (9, 16)
+Mon tour, joueur :  0
+J'attends  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  11
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  11
+J'avance  (7, 10)  ->  (8, 10)
+Mon tour, joueur :  3
+Je switch, j'ai pas le choix  (11, 3)
+Taille du path :  17  || Taille du cptPath :  1
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  11
+J'avance  (13, 13)  ->  (12, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  11
+J'avance  (9, 16)  ->  (8, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  11
+J'avance  (10, 3)  ->  (11, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  12
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  12
+J'avance  (8, 10)  ->  (9, 10)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  2
+J'avance  (12, 3)  ->  (12, 4)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  12
+J'avance  (12, 13)  ->  (11, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  12
+J'avance  (8, 16)  ->  (7, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  12
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  13
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  13
+J'avance  (9, 10)  ->  (10, 10)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  3
+J'avance  (12, 4)  ->  (12, 5)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  13
+J'avance  (11, 13)  ->  (10, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  13
+J'avance  (7, 16)  ->  (6, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  13
+J'avance  (12, 3)  ->  (12, 4)
+Mon tour, joueur :  1
+Je switch  (9, 13)
+Taille du path :  16  || Taille du cptPath :  1
+J'avance  (9, 13)  ->  (9, 14)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  14
+J'avance  (10, 10)  ->  (10, 9)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  4
+J'avance  (12, 5)  ->  (12, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  14
+J'avance  (10, 13)  ->  (9, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  14
+J'avance  (6, 16)  ->  (5, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  14
+J'avance  (12, 4)  ->  (12, 5)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  2
+J'avance  (9, 14)  ->  (9, 15)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  15
+J'avance  (10, 9)  ->  (11, 9)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  5
+J'avance  (12, 6)  ->  (11, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  15
+J'avance  (9, 13)  ->  (8, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  15
+J'avance  (5, 16)  ->  (4, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  15
+J'avance  (12, 5)  ->  (12, 6)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  3
+J'avance  (9, 15)  ->  (9, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  16
+J'avance  (11, 9)  ->  (12, 9)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  6
+J'avance  (11, 6)  ->  (10, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  16
+J'avance  (8, 13)  ->  (7, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  16
+J'avance  (4, 16)  ->  (3, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  16
+J'avance  (12, 6)  ->  (13, 6)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  4
+J'avance  (9, 16)  ->  (10, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  17
+J'avance  (12, 9)  ->  (12, 8)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  7
+J'avance  (10, 6)  ->  (9, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  17
+J'avance  (7, 13)  ->  (6, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  17
+J'avance  (3, 16)  ->  (2, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  17
+J'avance  (13, 6)  ->  (14, 6)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  5
+J'avance  (10, 16)  ->  (11, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  18
+J'avance  (12, 8)  ->  (12, 7)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  8
+J'avance  (9, 6)  ->  (8, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  18
+J'avance  (6, 13)  ->  (5, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  18
+J'avance  (2, 16)  ->  (1, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  18
+J'avance  (14, 6)  ->  (15, 6)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  6
+J'avance  (11, 16)  ->  (12, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  19
+J'avance  (12, 7)  ->  (12, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  9
+J'avance  (8, 6)  ->  (7, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  19
+J'avance  (5, 13)  ->  (4, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  19
+J'avance  (1, 16)  ->  (0, 16)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  19
+J'avance  (15, 6)  ->  (15, 7)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  7
+J'avance  (12, 16)  ->  (13, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  20
+J'avance  (12, 6)  ->  (13, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  10
+J'avance  (7, 6)  ->  (6, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  20
+J'avance  (4, 13)  ->  (3, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  20
+J'avance  (0, 16)  ->  (0, 17)
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  20
+J'avance  (15, 7)  ->  (15, 8)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  8
+J'avance  (13, 16)  ->  (14, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  21
+J'avance  (13, 6)  ->  (14, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  11
+J'avance  (6, 6)  ->  (5, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  21
+J'avance  (3, 13)  ->  (2, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  21
+J'avance  (15, 8)  ->  (15, 9)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  9
+J'avance  (14, 16)  ->  (15, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  22
+J'avance  (14, 6)  ->  (15, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  12
+J'avance  (5, 6)  ->  (4, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  22
+J'avance  (2, 13)  ->  (1, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  22
+J'avance  (15, 9)  ->  (15, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  10
+J'avance  (15, 16)  ->  (16, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  23
+J'avance  (15, 6)  ->  (16, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  13
+J'avance  (4, 6)  ->  (3, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  23
+J'avance  (1, 13)  ->  (0, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  23
+J'avance  (15, 10)  ->  (16, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  11
+J'avance  (16, 16)  ->  (17, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  24
+J'avance  (16, 6)  ->  (17, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  14
+J'avance  (3, 6)  ->  (2, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  24
+J'avance  (0, 13)  ->  (0, 12)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  24
+J'avance  (16, 10)  ->  (17, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  12
+J'avance  (17, 16)  ->  (18, 16)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  25
+J'avance  (17, 6)  ->  (18, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  15
+J'avance  (2, 6)  ->  (1, 6)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  25
+J'avance  (0, 12)  ->  (0, 11)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  25
+J'avance  (17, 10)  ->  (18, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  13
+J'avance  (18, 16)  ->  (18, 17)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  26
+J'avance  (18, 6)  ->  (18, 5)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  16
+J'avance  (1, 6)  ->  (0, 6)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  26
+J'avance  (18, 10)  ->  (18, 11)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  14
+J'avance  (18, 17)  ->  (18, 18)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  27
+J'avance  (18, 5)  ->  (19, 5)
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  28  || Taille du cptPath :  27
+J'avance  (18, 11)  ->  (19, 11)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  15
+J'avance  (18, 18)  ->  (19, 18)
+Mon tour, joueur :  2
+ITERATION :  4
+Init states: [(0, 3), (0, 9), (0, 13), (19, 2), (19, 9), (19, 16)]
+Objectifs reassemble :  [(19, 18), (19, 11), (19, 5), (0, 11), (0, 6), (0, 17)]
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  1
+J'avance  (0, 3)  ->  (0, 4)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  1
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  1
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  1
+J'avance  (19, 2)  ->  (18, 2)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  1
+J'avance  (19, 9)  ->  (18, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  1
+J'avance  (19, 16)  ->  (18, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  2
+J'avance  (0, 4)  ->  (0, 5)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  2
+J'avance  (0, 10)  ->  (1, 10)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  2
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  2
+J'avance  (18, 2)  ->  (18, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  2
+J'avance  (18, 9)  ->  (17, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  2
+J'avance  (18, 16)  ->  (17, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  3
+J'avance  (0, 5)  ->  (0, 6)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  3
+J'avance  (1, 10)  ->  (2, 10)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  3
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  3
+J'avance  (18, 3)  ->  (17, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  3
+J'avance  (17, 9)  ->  (16, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  3
+J'avance  (17, 16)  ->  (16, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  4
+J'avance  (0, 6)  ->  (1, 6)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  4
+J'avance  (2, 10)  ->  (3, 10)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  4
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  4
+J'avance  (17, 3)  ->  (16, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  4
+J'avance  (16, 9)  ->  (15, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  4
+J'avance  (16, 16)  ->  (15, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  5
+J'avance  (1, 6)  ->  (2, 6)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  5
+J'avance  (3, 10)  ->  (3, 11)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  5
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  5
+J'avance  (16, 3)  ->  (15, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  5
+J'avance  (15, 9)  ->  (15, 8)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  5
+J'avance  (15, 16)  ->  (14, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  6
+J'avance  (2, 6)  ->  (3, 6)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  6
+J'avance  (3, 11)  ->  (3, 12)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  6
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  6
+J'avance  (15, 3)  ->  (14, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  6
+J'avance  (15, 8)  ->  (15, 7)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  6
+J'avance  (14, 16)  ->  (13, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  7
+J'avance  (3, 6)  ->  (4, 6)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  7
+J'avance  (3, 12)  ->  (3, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  7
+J'avance  (6, 13)  ->  (6, 12)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  7
+J'avance  (14, 3)  ->  (13, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  7
+J'avance  (15, 7)  ->  (15, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  7
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  8
+J'avance  (4, 6)  ->  (5, 6)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  8
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  8
+J'avance  (6, 12)  ->  (6, 11)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  8
+J'avance  (13, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  8
+J'avance  (15, 6)  ->  (14, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  8
+J'avance  (12, 16)  ->  (11, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  9
+J'avance  (5, 6)  ->  (6, 6)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  9
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  9
+J'avance  (6, 11)  ->  (6, 10)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  9
+J'avance  (12, 3)  ->  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  9
+J'avance  (14, 6)  ->  (13, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  9
+J'avance  (11, 16)  ->  (10, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  10
+J'avance  (6, 6)  ->  (6, 7)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  10
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  10
+J'avance  (6, 10)  ->  (7, 10)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  10
+J'avance  (11, 3)  ->  (10, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  10
+J'avance  (13, 6)  ->  (12, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  10
+J'avance  (10, 16)  ->  (9, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  11
+J'avance  (6, 7)  ->  (6, 8)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  11
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  11
+J'avance  (7, 10)  ->  (8, 10)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  11
+J'avance  (10, 3)  ->  (9, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  11
+J'avance  (12, 6)  ->  (11, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  11
+J'avance  (9, 16)  ->  (8, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  12
+J'avance  (6, 8)  ->  (6, 9)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  12
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  12
+J'avance  (8, 10)  ->  (9, 10)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  12
+J'avance  (9, 3)  ->  (8, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  12
+J'avance  (11, 6)  ->  (10, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  12
+J'avance  (8, 16)  ->  (7, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  13
+J'avance  (6, 9)  ->  (6, 10)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  13
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  13
+J'avance  (9, 10)  ->  (10, 10)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  13
+J'avance  (8, 3)  ->  (7, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  13
+J'avance  (10, 6)  ->  (9, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  13
+J'avance  (7, 16)  ->  (6, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  14
+J'avance  (6, 10)  ->  (7, 10)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  14
+J'avance  (9, 13)  ->  (10, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  14
+J'avance  (10, 10)  ->  (10, 9)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  14
+J'avance  (7, 3)  ->  (6, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  14
+J'avance  (9, 6)  ->  (8, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  14
+J'avance  (6, 16)  ->  (5, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  15
+J'avance  (7, 10)  ->  (8, 10)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  15
+J'avance  (10, 13)  ->  (11, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  15
+J'avance  (10, 9)  ->  (11, 9)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  15
+J'avance  (6, 3)  ->  (5, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  15
+J'avance  (8, 6)  ->  (7, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  15
+J'avance  (5, 16)  ->  (4, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  16
+J'avance  (8, 10)  ->  (9, 10)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  16
+J'avance  (11, 13)  ->  (12, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  16
+J'avance  (11, 9)  ->  (12, 9)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  16
+J'avance  (5, 3)  ->  (4, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  16
+J'avance  (7, 6)  ->  (6, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  16
+J'avance  (4, 16)  ->  (3, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  17
+J'avance  (9, 10)  ->  (10, 10)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  17
+J'avance  (12, 13)  ->  (13, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  17
+J'avance  (12, 9)  ->  (12, 8)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  17
+J'avance  (4, 3)  ->  (3, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  17
+J'avance  (6, 6)  ->  (5, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  17
+J'avance  (3, 16)  ->  (2, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  18
+J'avance  (10, 10)  ->  (11, 10)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  18
+J'avance  (13, 13)  ->  (14, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  18
+J'avance  (12, 8)  ->  (12, 7)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  18
+J'avance  (3, 3)  ->  (2, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  18
+J'avance  (5, 6)  ->  (4, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  18
+J'avance  (2, 16)  ->  (1, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  19
+J'avance  (11, 10)  ->  (12, 10)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  19
+J'avance  (14, 13)  ->  (15, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  19
+J'avance  (12, 7)  ->  (12, 6)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  19
+J'avance  (2, 3)  ->  (1, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  19
+J'avance  (4, 6)  ->  (3, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  19
+J'avance  (1, 16)  ->  (0, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  20
+J'avance  (12, 10)  ->  (12, 11)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  20
+J'avance  (15, 13)  ->  (16, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  20
+J'avance  (12, 6)  ->  (13, 6)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  20
+J'avance  (1, 3)  ->  (0, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  20
+J'avance  (3, 6)  ->  (2, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  20
+J'avance  (0, 16)  ->  (0, 17)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  21
+J'avance  (12, 11)  ->  (12, 12)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  21
+J'avance  (16, 13)  ->  (17, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  21
+J'avance  (13, 6)  ->  (14, 6)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  21
+J'avance  (0, 3)  ->  (0, 4)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  21
+J'avance  (2, 6)  ->  (1, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  22
+J'avance  (12, 12)  ->  (12, 13)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  22
+J'avance  (17, 13)  ->  (18, 13)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  22
+J'avance  (14, 6)  ->  (15, 6)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  22
+J'avance  (0, 4)  ->  (0, 5)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  22
+J'avance  (1, 6)  ->  (0, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  23
+J'avance  (12, 13)  ->  (12, 14)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  23
+J'avance  (18, 13)  ->  (18, 12)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  23
+J'avance  (15, 6)  ->  (16, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  1
+J'avance  (0, 5)  ->  (0, 4)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  24
+J'avance  (12, 14)  ->  (12, 15)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  24
+J'avance  (18, 12)  ->  (18, 11)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  24
+J'avance  (16, 6)  ->  (17, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  2
+J'avance  (0, 4)  ->  (0, 3)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  25
+J'avance  (12, 15)  ->  (12, 16)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  25
+J'avance  (18, 11)  ->  (19, 11)
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  25
+J'avance  (17, 6)  ->  (18, 6)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  3
+J'avance  (0, 3)  ->  (1, 3)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  26
+J'avance  (12, 16)  ->  (13, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  26
+J'avance  (18, 6)  ->  (18, 5)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  4
+J'avance  (1, 3)  ->  (2, 3)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  27
+J'avance  (13, 16)  ->  (14, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Taille du path :  28  || Taille du cptPath :  27
+J'avance  (18, 5)  ->  (19, 5)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  5
+J'avance  (2, 3)  ->  (3, 3)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  28
+J'avance  (14, 16)  ->  (15, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  6
+J'avance  (3, 3)  ->  (3, 4)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  29
+J'avance  (15, 16)  ->  (16, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  7
+J'avance  (3, 4)  ->  (3, 5)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  30
+J'avance  (16, 16)  ->  (17, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  8
+J'avance  (3, 5)  ->  (3, 6)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  31
+J'avance  (17, 16)  ->  (18, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  9
+J'avance  (3, 6)  ->  (3, 7)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  32
+J'avance  (18, 16)  ->  (18, 17)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  10
+J'avance  (3, 7)  ->  (3, 8)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  33
+J'avance  (18, 17)  ->  (18, 18)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  11
+J'avance  (3, 8)  ->  (3, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  34
+J'avance  (18, 18)  ->  (19, 18)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  12
+J'avance  (3, 9)  ->  (2, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  13
+J'avance  (2, 9)  ->  (1, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  14
+J'avance  (1, 9)  ->  (0, 9)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  15
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  16
+J'avance  (0, 10)  ->  (0, 11)
+Mon tour, joueur :  4
+Mon tour, joueur :  5
+ITERATION :  5
+Init states: [(0, 3), (0, 9), (0, 13), (19, 2), (19, 9), (19, 16)]
+Objectifs reassemble :  [(19, 5), (19, 11), (19, 18), (0, 6), (0, 17), (0, 11)]
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  1
+J'avance  (0, 3)  ->  (1, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  1
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  1
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  1
+J'avance  (19, 2)  ->  (18, 2)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  1
+J'avance  (19, 9)  ->  (18, 9)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  1
+J'avance  (19, 16)  ->  (18, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  2
+J'avance  (1, 3)  ->  (2, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  2
+J'avance  (0, 10)  ->  (1, 10)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  2
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  2
+J'avance  (18, 2)  ->  (18, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  2
+J'avance  (18, 9)  ->  (17, 9)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  2
+J'avance  (18, 16)  ->  (17, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  3
+J'avance  (2, 3)  ->  (3, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  3
+J'avance  (1, 10)  ->  (2, 10)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  3
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  3
+J'avance  (18, 3)  ->  (17, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  3
+J'avance  (17, 9)  ->  (16, 9)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  3
+J'avance  (17, 16)  ->  (16, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  4
+J'avance  (3, 3)  ->  (4, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  4
+J'avance  (2, 10)  ->  (3, 10)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  4
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  4
+J'avance  (17, 3)  ->  (16, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  4
+J'avance  (16, 9)  ->  (15, 9)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  4
+J'avance  (16, 16)  ->  (15, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  5
+J'avance  (4, 3)  ->  (5, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  5
+J'avance  (3, 10)  ->  (3, 11)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  5
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  5
+J'avance  (16, 3)  ->  (15, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  5
+J'avance  (15, 9)  ->  (15, 10)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  5
+J'avance  (15, 16)  ->  (14, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  6
+J'avance  (5, 3)  ->  (6, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  6
+J'avance  (3, 11)  ->  (3, 12)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  6
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  6
+J'avance  (15, 3)  ->  (14, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  6
+J'avance  (15, 10)  ->  (15, 11)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  6
+J'avance  (14, 16)  ->  (13, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  7
+J'avance  (6, 3)  ->  (7, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  7
+J'avance  (3, 12)  ->  (3, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  7
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  7
+J'avance  (14, 3)  ->  (13, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  7
+J'avance  (15, 11)  ->  (15, 12)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  7
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  8
+J'avance  (7, 3)  ->  (8, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  8
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  8
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  8
+J'avance  (13, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  8
+J'avance  (15, 12)  ->  (15, 13)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  8
+J'avance  (12, 16)  ->  (12, 15)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  9
+J'avance  (8, 3)  ->  (9, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  9
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  9
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  9
+J'avance  (12, 3)  ->  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  9
+J'avance  (15, 13)  ->  (14, 13)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  9
+J'avance  (12, 15)  ->  (12, 14)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  10
+J'avance  (9, 3)  ->  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  10
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  10
+J'avance  (9, 13)  ->  (10, 13)
+Mon tour, joueur :  3
+J'attends  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  28  || Taille du cptPath :  10
+J'avance  (14, 13)  ->  (13, 13)
+Mon tour, joueur :  5
+Taille du path :  25  || Taille du cptPath :  10
+J'avance  (12, 14)  ->  (12, 13)
+Mon tour, joueur :  0
+J'attends  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  11
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  11
+J'avance  (10, 13)  ->  (11, 13)
+Mon tour, joueur :  3
+Je switch, j'ai pas le choix  (11, 3)
+Taille du path :  17  || Taille du cptPath :  1
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+J'attends  (13, 13)
+Mon tour, joueur :  5
+J'attends  (12, 13)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  11
+J'avance  (10, 3)  ->  (11, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  12
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  2
+J'attends  (11, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  2
+J'avance  (12, 3)  ->  (12, 4)
+Mon tour, joueur :  4
+Je switch, j'ai pas le choix  (13, 13)
+Taille du path :  22  || Taille du cptPath :  1
+J'avance  (13, 13)  ->  (14, 13)
+Mon tour, joueur :  5
+Je switch, j'ai pas le choix  (12, 13)
+Taille du path :  21  || Taille du cptPath :  1
+J'avance  (12, 13)  ->  (12, 12)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  12
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  13
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  12
+J'avance  (11, 13)  ->  (12, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  3
+J'avance  (12, 4)  ->  (12, 5)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  2
+J'avance  (14, 13)  ->  (15, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  2
+J'avance  (12, 12)  ->  (12, 11)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  13
+J'avance  (12, 3)  ->  (13, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  14
+J'avance  (9, 13)  ->  (10, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  13
+J'avance  (12, 13)  ->  (12, 14)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  4
+J'avance  (12, 5)  ->  (12, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  3
+J'avance  (15, 13)  ->  (15, 14)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  3
+J'avance  (12, 11)  ->  (12, 10)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  14
+J'avance  (13, 3)  ->  (14, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  15
+J'avance  (10, 13)  ->  (11, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  14
+J'avance  (12, 14)  ->  (12, 15)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  5
+J'avance  (12, 6)  ->  (11, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  4
+J'avance  (15, 14)  ->  (15, 15)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  4
+J'avance  (12, 10)  ->  (11, 10)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  15
+J'avance  (14, 3)  ->  (15, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  16
+J'avance  (11, 13)  ->  (12, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  15
+J'avance  (12, 15)  ->  (12, 16)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  6
+J'avance  (11, 6)  ->  (10, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  5
+J'avance  (15, 15)  ->  (15, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  5
+J'avance  (11, 10)  ->  (10, 10)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  16
+J'avance  (15, 3)  ->  (16, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  17
+J'avance  (12, 13)  ->  (13, 13)
+Mon tour, joueur :  2
+Taille du path :  25  || Taille du cptPath :  16
+J'avance  (12, 16)  ->  (13, 16)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  7
+J'avance  (10, 6)  ->  (9, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  6
+J'avance  (15, 16)  ->  (14, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  6
+J'avance  (10, 10)  ->  (9, 10)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  17
+J'avance  (16, 3)  ->  (17, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  18
+J'avance  (13, 13)  ->  (14, 13)
+Mon tour, joueur :  2
+Je switch, j'ai pas le choix  (13, 16)
+Taille du path :  13  || Taille du cptPath :  1
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  8
+J'avance  (9, 6)  ->  (8, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  7
+J'avance  (14, 16)  ->  (13, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  7
+J'avance  (9, 10)  ->  (8, 10)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  18
+J'avance  (17, 3)  ->  (18, 3)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  19
+J'avance  (14, 13)  ->  (15, 13)
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  2
+J'avance  (12, 16)  ->  (12, 17)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  9
+J'avance  (8, 6)  ->  (7, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  8
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  8
+J'avance  (8, 10)  ->  (7, 10)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  19
+J'avance  (18, 3)  ->  (18, 4)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  20
+J'avance  (15, 13)  ->  (16, 13)
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  3
+J'avance  (12, 17)  ->  (12, 18)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  10
+J'avance  (7, 6)  ->  (6, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  9
+J'avance  (12, 16)  ->  (11, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  9
+J'avance  (7, 10)  ->  (6, 10)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  20
+J'avance  (18, 4)  ->  (19, 4)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  21
+J'avance  (16, 13)  ->  (17, 13)
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  4
+J'avance  (12, 18)  ->  (12, 19)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  11
+J'avance  (6, 6)  ->  (5, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  10
+J'avance  (11, 16)  ->  (10, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  10
+J'avance  (6, 10)  ->  (6, 11)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  21
+J'avance  (19, 4)  ->  (19, 5)
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  22
+J'avance  (17, 13)  ->  (18, 13)
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  5
+J'avance  (12, 19)  ->  (13, 19)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  12
+J'avance  (5, 6)  ->  (4, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  11
+J'avance  (10, 16)  ->  (9, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  11
+J'avance  (6, 11)  ->  (6, 12)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  23
+J'avance  (18, 13)  ->  (18, 12)
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  6
+J'avance  (13, 19)  ->  (14, 19)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  13
+J'avance  (4, 6)  ->  (3, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  12
+J'avance  (9, 16)  ->  (8, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  12
+J'avance  (6, 12)  ->  (6, 13)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  24
+J'avance  (18, 12)  ->  (18, 11)
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  7
+J'avance  (14, 19)  ->  (15, 19)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  14
+J'avance  (3, 6)  ->  (2, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  13
+J'avance  (8, 16)  ->  (7, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  13
+J'avance  (6, 13)  ->  (5, 13)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  26  || Taille du cptPath :  25
+J'avance  (18, 11)  ->  (19, 11)
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  8
+J'avance  (15, 19)  ->  (16, 19)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  15
+J'avance  (2, 6)  ->  (1, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  14
+J'avance  (7, 16)  ->  (6, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  14
+J'avance  (5, 13)  ->  (4, 13)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  9
+J'avance  (16, 19)  ->  (17, 19)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  16
+J'avance  (1, 6)  ->  (0, 6)
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  15
+J'avance  (6, 16)  ->  (5, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  15
+J'avance  (4, 13)  ->  (3, 13)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  10
+J'avance  (17, 19)  ->  (18, 19)
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  16
+J'avance  (5, 16)  ->  (4, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  16
+J'avance  (3, 13)  ->  (2, 13)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  11
+J'avance  (18, 19)  ->  (18, 18)
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  17
+J'avance  (4, 16)  ->  (3, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  17
+J'avance  (2, 13)  ->  (1, 13)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Taille du path :  13  || Taille du cptPath :  12
+J'avance  (18, 18)  ->  (19, 18)
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  18
+J'avance  (3, 16)  ->  (2, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  18
+J'avance  (1, 13)  ->  (0, 13)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  19
+J'avance  (2, 16)  ->  (1, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  19
+J'avance  (0, 13)  ->  (0, 12)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  20
+J'avance  (1, 16)  ->  (0, 16)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  20
+J'avance  (0, 12)  ->  (0, 11)
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  22  || Taille du cptPath :  21
+J'avance  (0, 16)  ->  (0, 17)
+Mon tour, joueur :  5
+ITERATION :  6
+Init states: [(0, 3), (0, 9), (0, 13), (19, 2), (19, 9), (19, 16)]
+Objectifs reassemble :  [(19, 5), (19, 18), (19, 11), (0, 6), (0, 11), (0, 17)]
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  1
+J'avance  (0, 3)  ->  (1, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  1
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  1
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  1
+J'avance  (19, 2)  ->  (18, 2)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  1
+J'avance  (19, 9)  ->  (18, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  1
+J'avance  (19, 16)  ->  (18, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  2
+J'avance  (1, 3)  ->  (2, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  2
+J'avance  (0, 10)  ->  (0, 11)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  2
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  2
+J'avance  (18, 2)  ->  (18, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  2
+J'avance  (18, 9)  ->  (17, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  2
+J'avance  (18, 16)  ->  (17, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  3
+J'avance  (2, 3)  ->  (3, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  3
+J'avance  (0, 11)  ->  (0, 12)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  3
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  3
+J'avance  (18, 3)  ->  (17, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  3
+J'avance  (17, 9)  ->  (16, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  3
+J'avance  (17, 16)  ->  (16, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  4
+J'avance  (3, 3)  ->  (4, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  4
+J'avance  (0, 12)  ->  (0, 13)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  4
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  4
+J'avance  (17, 3)  ->  (16, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  4
+J'avance  (16, 9)  ->  (15, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  4
+J'avance  (16, 16)  ->  (15, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  5
+J'avance  (4, 3)  ->  (5, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  5
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  5
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  5
+J'avance  (16, 3)  ->  (15, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  5
+J'avance  (15, 9)  ->  (15, 10)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  5
+J'avance  (15, 16)  ->  (14, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  6
+J'avance  (5, 3)  ->  (6, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  6
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  6
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  6
+J'avance  (15, 3)  ->  (14, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  6
+J'avance  (15, 10)  ->  (15, 11)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  6
+J'avance  (14, 16)  ->  (13, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  7
+J'avance  (6, 3)  ->  (7, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  7
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  7
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  7
+J'avance  (14, 3)  ->  (13, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  7
+J'avance  (15, 11)  ->  (15, 12)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  7
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  8
+J'avance  (7, 3)  ->  (8, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  8
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  8
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  8
+J'avance  (13, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  8
+J'avance  (15, 12)  ->  (15, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  8
+J'avance  (12, 16)  ->  (11, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  9
+J'avance  (8, 3)  ->  (9, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  9
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  9
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  3
+Taille du path :  24  || Taille du cptPath :  9
+J'avance  (12, 3)  ->  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  9
+J'avance  (15, 13)  ->  (14, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  9
+J'avance  (11, 16)  ->  (10, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  10
+J'avance  (9, 3)  ->  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  10
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  10
+J'avance  (9, 13)  ->  (10, 13)
+Mon tour, joueur :  3
+J'attends  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  10
+J'avance  (14, 13)  ->  (13, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  10
+J'avance  (10, 16)  ->  (9, 16)
+Mon tour, joueur :  0
+J'attends  (10, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  11
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  11
+J'avance  (10, 13)  ->  (11, 13)
+Mon tour, joueur :  3
+Je switch, j'ai pas le choix  (11, 3)
+Taille du path :  17  || Taille du cptPath :  1
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  26  || Taille du cptPath :  11
+J'avance  (13, 13)  ->  (12, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  11
+J'avance  (9, 16)  ->  (8, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  11
+J'avance  (10, 3)  ->  (11, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  12
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  2
+J'attends  (11, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  2
+J'avance  (12, 3)  ->  (12, 4)
+Mon tour, joueur :  4
+J'attends  (12, 13)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  12
+J'avance  (8, 16)  ->  (7, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  12
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  13
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  2
+Exception  (11, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  3
+J'avance  (12, 4)  ->  (12, 5)
+Mon tour, joueur :  4
+Je switch, j'ai pas le choix  (12, 13)
+Taille du path :  21  || Taille du cptPath :  1
+J'avance  (12, 13)  ->  (12, 12)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  13
+J'avance  (7, 16)  ->  (6, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  13
+J'avance  (12, 3)  ->  (13, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  14
+J'avance  (9, 13)  ->  (10, 13)
+Mon tour, joueur :  2
+Je switch, j'ai pas le choix  (11, 13)
+Taille du path :  11  || Taille du cptPath :  1
+J'avance  (11, 13)  ->  (12, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  4
+J'avance  (12, 5)  ->  (12, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  2
+J'avance  (12, 12)  ->  (12, 11)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  14
+J'avance  (6, 16)  ->  (5, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  14
+J'avance  (13, 3)  ->  (14, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  15
+J'avance  (10, 13)  ->  (11, 13)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  2
+J'avance  (12, 13)  ->  (13, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  5
+J'avance  (12, 6)  ->  (11, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  3
+J'avance  (12, 11)  ->  (12, 10)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  15
+J'avance  (5, 16)  ->  (4, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  15
+J'avance  (14, 3)  ->  (15, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  16
+J'avance  (11, 13)  ->  (12, 13)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  3
+J'avance  (13, 13)  ->  (14, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  6
+J'avance  (11, 6)  ->  (10, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  4
+J'avance  (12, 10)  ->  (11, 10)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  16
+J'avance  (4, 16)  ->  (3, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  16
+J'avance  (15, 3)  ->  (16, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  17
+J'avance  (12, 13)  ->  (12, 14)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  4
+J'avance  (14, 13)  ->  (15, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  7
+J'avance  (10, 6)  ->  (9, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  5
+J'avance  (11, 10)  ->  (10, 10)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  17
+J'avance  (3, 16)  ->  (2, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  17
+J'avance  (16, 3)  ->  (17, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  18
+J'avance  (12, 14)  ->  (12, 15)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  5
+J'avance  (15, 13)  ->  (16, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  8
+J'avance  (9, 6)  ->  (8, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  6
+J'avance  (10, 10)  ->  (9, 10)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  18
+J'avance  (2, 16)  ->  (1, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  18
+J'avance  (17, 3)  ->  (18, 3)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  19
+J'avance  (12, 15)  ->  (12, 16)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  6
+J'avance  (16, 13)  ->  (17, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  9
+J'avance  (8, 6)  ->  (7, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  7
+J'avance  (9, 10)  ->  (8, 10)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  19
+J'avance  (1, 16)  ->  (0, 16)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  19
+J'avance  (18, 3)  ->  (18, 4)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  20
+J'avance  (12, 16)  ->  (13, 16)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  7
+J'avance  (17, 13)  ->  (18, 13)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  10
+J'avance  (7, 6)  ->  (6, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  8
+J'avance  (8, 10)  ->  (7, 10)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  20
+J'avance  (0, 16)  ->  (0, 17)
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  20
+J'avance  (18, 4)  ->  (19, 4)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  21
+J'avance  (13, 16)  ->  (14, 16)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  8
+J'avance  (18, 13)  ->  (18, 12)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  11
+J'avance  (6, 6)  ->  (5, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  9
+J'avance  (7, 10)  ->  (6, 10)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  22  || Taille du cptPath :  21
+J'avance  (19, 4)  ->  (19, 5)
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  22
+J'avance  (14, 16)  ->  (15, 16)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  9
+J'avance  (18, 12)  ->  (18, 11)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  12
+J'avance  (5, 6)  ->  (4, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  10
+J'avance  (6, 10)  ->  (6, 11)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  23
+J'avance  (15, 16)  ->  (16, 16)
+Mon tour, joueur :  2
+Taille du path :  11  || Taille du cptPath :  10
+J'avance  (18, 11)  ->  (19, 11)
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  13
+J'avance  (4, 6)  ->  (3, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  11
+J'avance  (6, 11)  ->  (6, 12)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  24
+J'avance  (16, 16)  ->  (17, 16)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  14
+J'avance  (3, 6)  ->  (2, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  12
+J'avance  (6, 12)  ->  (6, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  25
+J'avance  (17, 16)  ->  (18, 16)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  15
+J'avance  (2, 6)  ->  (1, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  13
+J'avance  (6, 13)  ->  (5, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  26
+J'avance  (18, 16)  ->  (18, 17)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  17  || Taille du cptPath :  16
+J'avance  (1, 6)  ->  (0, 6)
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  14
+J'avance  (5, 13)  ->  (4, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  27
+J'avance  (18, 17)  ->  (18, 18)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  15
+J'avance  (4, 13)  ->  (3, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Taille du path :  29  || Taille du cptPath :  28
+J'avance  (18, 18)  ->  (19, 18)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  16
+J'avance  (3, 13)  ->  (2, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  17
+J'avance  (2, 13)  ->  (1, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  18
+J'avance  (1, 13)  ->  (0, 13)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  19
+J'avance  (0, 13)  ->  (0, 12)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  21  || Taille du cptPath :  20
+J'avance  (0, 12)  ->  (0, 11)
+Mon tour, joueur :  5
+ITERATION :  7
+Init states: [(0, 3), (0, 9), (0, 13), (19, 2), (19, 9), (19, 16)]
+Objectifs reassemble :  [(19, 18), (19, 5), (19, 11), (0, 11), (0, 6), (0, 17)]
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  1
+J'avance  (0, 3)  ->  (0, 4)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  1
+J'avance  (0, 9)  ->  (0, 8)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  1
+J'avance  (0, 13)  ->  (1, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  1
+J'avance  (19, 2)  ->  (18, 2)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  1
+J'avance  (19, 9)  ->  (18, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  1
+J'avance  (19, 16)  ->  (18, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  2
+J'avance  (0, 4)  ->  (0, 5)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  2
+J'avance  (0, 8)  ->  (0, 7)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  2
+J'avance  (1, 13)  ->  (2, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  2
+J'avance  (18, 2)  ->  (18, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  2
+J'avance  (18, 9)  ->  (17, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  2
+J'avance  (18, 16)  ->  (17, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  3
+J'avance  (0, 5)  ->  (0, 6)
+Mon tour, joueur :  1
+J'attends  (0, 7)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  3
+J'avance  (2, 13)  ->  (3, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  3
+J'avance  (18, 3)  ->  (17, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  3
+J'avance  (17, 9)  ->  (16, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  3
+J'avance  (17, 16)  ->  (16, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  4
+J'avance  (0, 6)  ->  (1, 6)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  3
+J'avance  (0, 7)  ->  (0, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  4
+J'avance  (3, 13)  ->  (4, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  4
+J'avance  (17, 3)  ->  (16, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  4
+J'avance  (16, 9)  ->  (15, 9)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  4
+J'avance  (16, 16)  ->  (15, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  5
+J'avance  (1, 6)  ->  (2, 6)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  4
+J'avance  (0, 6)  ->  (1, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  5
+J'avance  (4, 13)  ->  (5, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  5
+J'avance  (16, 3)  ->  (15, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  5
+J'avance  (15, 9)  ->  (15, 8)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  5
+J'avance  (15, 16)  ->  (14, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  6
+J'avance  (2, 6)  ->  (3, 6)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  5
+J'avance  (1, 6)  ->  (2, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  6
+J'avance  (5, 13)  ->  (6, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  6
+J'avance  (15, 3)  ->  (14, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  6
+J'avance  (15, 8)  ->  (15, 7)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  6
+J'avance  (14, 16)  ->  (13, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  7
+J'avance  (3, 6)  ->  (4, 6)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  6
+J'avance  (2, 6)  ->  (3, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  7
+J'avance  (6, 13)  ->  (7, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  7
+J'avance  (14, 3)  ->  (13, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  7
+J'avance  (15, 7)  ->  (15, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  7
+J'avance  (13, 16)  ->  (12, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  8
+J'avance  (4, 6)  ->  (5, 6)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  7
+J'avance  (3, 6)  ->  (4, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  8
+J'avance  (7, 13)  ->  (8, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  8
+J'avance  (13, 3)  ->  (12, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  8
+J'avance  (15, 6)  ->  (14, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  8
+J'avance  (12, 16)  ->  (11, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  9
+J'avance  (5, 6)  ->  (6, 6)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  8
+J'avance  (4, 6)  ->  (5, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  9
+J'avance  (8, 13)  ->  (9, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  9
+J'avance  (12, 3)  ->  (11, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  9
+J'avance  (14, 6)  ->  (13, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  9
+J'avance  (11, 16)  ->  (10, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  10
+J'avance  (6, 6)  ->  (6, 7)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  9
+J'avance  (5, 6)  ->  (6, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  10
+J'avance  (9, 13)  ->  (10, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  10
+J'avance  (11, 3)  ->  (10, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  10
+J'avance  (13, 6)  ->  (12, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  10
+J'avance  (10, 16)  ->  (9, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  11
+J'avance  (6, 7)  ->  (6, 8)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  10
+J'avance  (6, 6)  ->  (7, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  11
+J'avance  (10, 13)  ->  (11, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  11
+J'avance  (10, 3)  ->  (9, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  11
+J'avance  (12, 6)  ->  (11, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  11
+J'avance  (9, 16)  ->  (8, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  12
+J'avance  (6, 8)  ->  (6, 9)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  11
+J'avance  (7, 6)  ->  (8, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  12
+J'avance  (11, 13)  ->  (12, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  12
+J'avance  (9, 3)  ->  (8, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  12
+J'avance  (11, 6)  ->  (10, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  12
+J'avance  (8, 16)  ->  (7, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  13
+J'avance  (6, 9)  ->  (6, 10)
+Mon tour, joueur :  1
+Taille du path :  24  || Taille du cptPath :  12
+J'avance  (8, 6)  ->  (9, 6)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  13
+J'avance  (12, 13)  ->  (13, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  13
+J'avance  (8, 3)  ->  (7, 3)
+Mon tour, joueur :  4
+J'attends  (10, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  13
+J'avance  (7, 16)  ->  (6, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  14
+J'avance  (6, 10)  ->  (7, 10)
+Mon tour, joueur :  1
+Je switch, j'ai pas le choix  (9, 6)
+Taille du path :  16  || Taille du cptPath :  1
+J'avance  (9, 6)  ->  (9, 5)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  14
+J'avance  (13, 13)  ->  (14, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  14
+J'avance  (7, 3)  ->  (6, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  13
+J'avance  (10, 6)  ->  (9, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  14
+J'avance  (6, 16)  ->  (5, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  15
+J'avance  (7, 10)  ->  (8, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  2
+J'avance  (9, 5)  ->  (9, 4)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  15
+J'avance  (14, 13)  ->  (15, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  15
+J'avance  (6, 3)  ->  (5, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  14
+J'avance  (9, 6)  ->  (8, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  15
+J'avance  (5, 16)  ->  (4, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  16
+J'avance  (8, 10)  ->  (9, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  3
+J'avance  (9, 4)  ->  (9, 3)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  16
+J'avance  (15, 13)  ->  (16, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  16
+J'avance  (5, 3)  ->  (4, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  15
+J'avance  (8, 6)  ->  (7, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  16
+J'avance  (4, 16)  ->  (3, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  17
+J'avance  (9, 10)  ->  (10, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  4
+J'avance  (9, 3)  ->  (10, 3)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  17
+J'avance  (16, 13)  ->  (17, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  17
+J'avance  (4, 3)  ->  (3, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  16
+J'avance  (7, 6)  ->  (6, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  17
+J'avance  (3, 16)  ->  (2, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  18
+J'avance  (10, 10)  ->  (11, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  5
+J'avance  (10, 3)  ->  (11, 3)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  18
+J'avance  (17, 13)  ->  (18, 13)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  18
+J'avance  (3, 3)  ->  (2, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  17
+J'avance  (6, 6)  ->  (5, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  18
+J'avance  (2, 16)  ->  (1, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  19
+J'avance  (11, 10)  ->  (12, 10)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  6
+J'avance  (11, 3)  ->  (12, 3)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  19
+J'avance  (18, 13)  ->  (18, 12)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  19
+J'avance  (2, 3)  ->  (1, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  18
+J'avance  (5, 6)  ->  (4, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  19
+J'avance  (1, 16)  ->  (0, 16)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  20
+J'avance  (12, 10)  ->  (12, 11)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  7
+J'avance  (12, 3)  ->  (13, 3)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  20
+J'avance  (18, 12)  ->  (18, 11)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  20
+J'avance  (1, 3)  ->  (0, 3)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  19
+J'avance  (4, 6)  ->  (3, 6)
+Mon tour, joueur :  5
+Taille du path :  21  || Taille du cptPath :  20
+J'avance  (0, 16)  ->  (0, 17)
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  21
+J'avance  (12, 11)  ->  (12, 12)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  8
+J'avance  (13, 3)  ->  (14, 3)
+Mon tour, joueur :  2
+Taille du path :  22  || Taille du cptPath :  21
+J'avance  (18, 11)  ->  (19, 11)
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  21
+J'avance  (0, 3)  ->  (0, 4)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  20
+J'avance  (3, 6)  ->  (2, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  22
+J'avance  (12, 12)  ->  (12, 13)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  9
+J'avance  (14, 3)  ->  (15, 3)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  22
+J'avance  (0, 4)  ->  (0, 5)
+Mon tour, joueur :  4
+Taille du path :  23  || Taille du cptPath :  21
+J'avance  (2, 6)  ->  (1, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  23
+J'avance  (12, 13)  ->  (12, 14)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  10
+J'avance  (15, 3)  ->  (16, 3)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  23
+J'avance  (0, 5)  ->  (0, 6)
+Mon tour, joueur :  4
+Je switch, j'ai pas le choix  (1, 6)
+Taille du path :  32  || Taille du cptPath :  1
+J'avance  (1, 6)  ->  (2, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  24
+J'avance  (12, 14)  ->  (12, 15)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  11
+J'avance  (16, 3)  ->  (17, 3)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  24
+J'avance  (0, 6)  ->  (0, 7)
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  2
+J'avance  (2, 6)  ->  (3, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  25
+J'avance  (12, 15)  ->  (12, 16)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  12
+J'avance  (17, 3)  ->  (18, 3)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  25
+J'avance  (0, 7)  ->  (0, 8)
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  3
+J'avance  (3, 6)  ->  (4, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  26
+J'avance  (12, 16)  ->  (13, 16)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  13
+J'avance  (18, 3)  ->  (18, 4)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  26
+J'avance  (0, 8)  ->  (0, 9)
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  4
+J'avance  (4, 6)  ->  (5, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  27
+J'avance  (13, 16)  ->  (14, 16)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  14
+J'avance  (18, 4)  ->  (18, 5)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  27
+J'avance  (0, 9)  ->  (0, 10)
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  5
+J'avance  (5, 6)  ->  (6, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  28
+J'avance  (14, 16)  ->  (15, 16)
+Mon tour, joueur :  1
+Taille du path :  16  || Taille du cptPath :  15
+J'avance  (18, 5)  ->  (19, 5)
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Taille du path :  29  || Taille du cptPath :  28
+J'avance  (0, 10)  ->  (0, 11)
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  6
+J'avance  (6, 6)  ->  (7, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  29
+J'avance  (15, 16)  ->  (16, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  7
+J'avance  (7, 6)  ->  (8, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  30
+J'avance  (16, 16)  ->  (17, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  8
+J'avance  (8, 6)  ->  (9, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  31
+J'avance  (17, 16)  ->  (18, 16)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  9
+J'avance  (9, 6)  ->  (10, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  32
+J'avance  (18, 16)  ->  (18, 17)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  10
+J'avance  (10, 6)  ->  (11, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  33
+J'avance  (18, 17)  ->  (18, 18)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  11
+J'avance  (11, 6)  ->  (12, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Taille du path :  35  || Taille du cptPath :  34
+J'avance  (18, 18)  ->  (19, 18)
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  12
+J'avance  (12, 6)  ->  (13, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  13
+J'avance  (13, 6)  ->  (14, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  14
+J'avance  (14, 6)  ->  (15, 6)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
+Mon tour, joueur :  3
+Mon tour, joueur :  4
+Taille du path :  32  || Taille du cptPath :  15
+J'avance  (15, 6)  ->  (15, 7)
+Mon tour, joueur :  5
+Mon tour, joueur :  0
+Mon tour, joueur :  1
+Mon tour, joueur :  2
