@@ -1,4 +1,4 @@
-#Attention /!!\\
+# Attention /!!\\
 This project is a project written by Sorbone University professors. It is my work on this project.
 # projet-ia-jeux-2021
 Template pour le projet L3 IA et Jeux, 2021, Sorbonne Univ.
